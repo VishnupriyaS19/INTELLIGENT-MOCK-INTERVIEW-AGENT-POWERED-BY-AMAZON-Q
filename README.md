@@ -6,6 +6,8 @@ Our system helps candidates prepare for interviews and enables them to directly 
 
 🔑 Built for Amazon Q Talent Hunt Challenge 2025
 
+![image alt](image_url)
+
 
 
 
