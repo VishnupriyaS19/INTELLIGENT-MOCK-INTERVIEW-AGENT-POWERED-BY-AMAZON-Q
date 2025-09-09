@@ -37,7 +37,7 @@ Our system solves this by offering:
 🔗 https://amazonq-resume-ai.netlify.app/      [LIVE LINK OF WEBSITE]
 
 
-📹 [Demo Video] (if available)
+📹 https://drive.google.com/file/d/11zpCzDcbu_Hc_nb3uMvDYglXQYJLOl4u/view?usp=drivesdk     [ DEMO VIDEO] 
 
 
 ---
