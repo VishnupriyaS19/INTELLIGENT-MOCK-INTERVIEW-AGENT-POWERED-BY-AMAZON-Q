@@ -7,6 +7,9 @@ Our system helps candidates prepare for interviews and enables them to directly 
 🔑 Built for Amazon Q Talent Hunt Challenge 2025
 
 
+
+
+
 🎯 Problem We Solved
 
 Recruitment is time-consuming and inefficient. Candidates struggle to prepare effectively, and recruiters spend hours screening profiles.
@@ -25,6 +28,18 @@ Our system solves this by offering:
 
 
 ---
+
+🎥 Demo
+
+
+🔗 https://amazonq-resume-ai.netlify.app/      [LIVE LINK OF WEBSITE]
+
+
+📹 [Demo Video] (if available)
+
+
+---
+
 
 ✨ Key Features
 
@@ -90,27 +105,26 @@ Job Data: External job APIs
 
 
 8. Notifications → System sends updates about current hiring situations.
-
-
----
-
-🎥 Demo
-
-🔗 [Live Demo Link] (if deployed)
-📹 [Demo Video] (if available)
-
+   
 
 ---
+
 🌟 Why Our Project Stands Out
 
 ✅ Combines resume parsing, mock interviews, and job recommendations in one seamless platform
+
 ✅ Uses MCQ-based interviews for quick, fair, and automated evaluation
+
 ✅ Provides personalized insights to improve resumes for better hiring chances
+
 ✅ Lets candidates directly reach HR via email to apply for best-fit jobs instantly
+
 ✅ Sends real-time notifications about hiring situations to keep candidates updated
+
 ✅ Practical, innovative, and tailored for hackathon impact
     
 ---
+
 📌 Future Scope
 
 Add adaptive MCQs (difficulty changes with candidate answers)
@@ -126,9 +140,11 @@ Store and manage resumes in AWS S3 buckets for scalability
  
 ---
 
+
 👨‍💻 Team
 
 Built with ❤ by [CLOUD BLAZE]
+
 
 
 ---
