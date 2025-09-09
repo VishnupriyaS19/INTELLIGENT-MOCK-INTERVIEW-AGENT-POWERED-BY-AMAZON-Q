@@ -6,7 +6,7 @@ Our system helps candidates prepare for interviews and enables them to directly 
 
 🔑 Built for Amazon Q Talent Hunt Challenge 2025
 
-![image alt](image_url)
+![image alt](https://github.com/VishnupriyaS19/INTELLIGENT-MOCK-INTERVIEW-AGENT-POWERED-BY-AMAZON-Q/blob/ccef76d2d93df423ca1bbb2977f93803835cbb83/HACKATHON.jpg)
 
 
 
